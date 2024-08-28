@@ -26,3 +26,12 @@ The infrastructure is provisioned using Terraform, ensuring consistent and repro
 
 
 
+# Project Structure
+
+
+1. variables.tf: Contains all the variables used in the Terraform scripts.
+2. lampstack.sh: Bash script for setting up the PHP environment on EC2 instances.
+Future Enhancements
+
+# Future Enhancements
+1. CI/CD Integration: Automate the deployment process using tools like Jenkins or GitHub Actions.
