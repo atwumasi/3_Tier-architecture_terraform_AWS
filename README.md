@@ -6,14 +6,14 @@ This project demonstrates a scalable and secure three-tier architecture implemen
 
 # Key Features
 
-High Availability: Leveraging multiple Availability Zones (AZs) to ensure the application remains accessible even in the event of an AZ failure.
+## High Availability: Leveraging multiple Availability Zones (AZs) to ensure the application remains accessible even in the event of an AZ failure.
 Scalability: Auto-scaling groups for the presentation and application layers to handle varying levels of traffic.
 Security: Implementation of strict security groups and isolation of layers to minimize exposure and potential attack vectors.
 Automation: Infrastructure is fully managed and provisioned using Terraform, enabling quick and consistent deployments.
 
 # Setup Instructions
 
-##Prerequisites
+## Prerequisites
 AWS Account
 Terraform installed
 AWS CLI configured with appropriate permissions
